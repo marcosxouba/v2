@@ -275,8 +275,8 @@ const {
   ┃━━━━━━━━━━━━━━━━━━━━
   ┠⊷️ *Nombre* :
   ┠⊷️ *Edad* :
-  ┠⊷️ *Lugar de nacimiento* :
-  ┠⊷️ *Género* :
+  ┠⊷️ *Lugar* :
+  ┠⊷️ Gracias y bienvenido a Activos 24/7. RECUERDA LEER LAS NORMAS DE LA DESCRIPCIÓN:
   ┗━━━━━━━━━━━━━━━━━━━━
   
   Usa ${prefix}verify para verificarte y poder usar el bot.`
